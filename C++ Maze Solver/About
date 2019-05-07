@@ -1,1 +1,2 @@
-
+The purpose of this code is that it has the ability to solve any .dat (DATA) file that contains 
+a maze, with the fewest possible moves following the right wall technique.
